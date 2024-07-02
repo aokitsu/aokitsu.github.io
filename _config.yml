@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: aokitsu
+weibo_username: yibojue
 zhihu_username: aokitsu
 github_username: aokitsu
 twitter_username: aokitsu1215
